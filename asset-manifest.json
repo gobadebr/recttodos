@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/recttodos/static/css/main.6fca0ea5.chunk.css",
+    "main.js": "/recttodos/static/js/main.0846cbad.chunk.js",
+    "main.js.map": "/recttodos/static/js/main.0846cbad.chunk.js.map",
+    "runtime-main.js": "/recttodos/static/js/runtime-main.44b5dd2b.js",
+    "runtime-main.js.map": "/recttodos/static/js/runtime-main.44b5dd2b.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/recttodos/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.99cef16f.chunk.js": "/recttodos/static/js/2.99cef16f.chunk.js",
+    "static/js/2.99cef16f.chunk.js.map": "/recttodos/static/js/2.99cef16f.chunk.js.map",
+    "index.html": "/recttodos/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/recttodos/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.6fca0ea5.chunk.css.map": "/recttodos/static/css/main.6fca0ea5.chunk.css.map",
+    "static/js/2.99cef16f.chunk.js.LICENSE.txt": "/recttodos/static/js/2.99cef16f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44b5dd2b.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.99cef16f.chunk.js",
+    "static/css/main.6fca0ea5.chunk.css",
+    "static/js/main.0846cbad.chunk.js"
+  ]
+}
